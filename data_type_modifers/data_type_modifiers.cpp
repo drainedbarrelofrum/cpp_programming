@@ -37,7 +37,7 @@ int main () {
 
     //double 
     double d;           //64 bits
-    long double ld;     //at leas 64 bits
+    long double ld;     //at least 64 bits
     //long lon double lld; //is not an option for double
       
     cout << "sizeof double: " << sizeof d << "\n";
